@@ -382,7 +382,7 @@ export let macros = {
 	'summonFiend': summonFiend,
 	'summonShadowspawn': summonShadowspawn,
 	'summonUndead': summonUndead,
-	'tentacleOfTheDeeps':tentacleOfTheDeeps,
+	'tentacleOfTheDeeps': tentacleOfTheDeeps,
 	'thunderboltStrike': thunderboltStrike,
 	'tollTheDead': tollTheDead,
 	'turnUndead': turnUndead,

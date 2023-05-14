@@ -1,6 +1,3 @@
-import {chris} from '../../../../helperFunctions.js';
-import {queue} from '../../../../queue.js';
-
 export async function tentacleOfTheDeeps({speaker, actor, token, character, item, args}) {
     try {
         console.log(actor);
