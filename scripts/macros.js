@@ -157,6 +157,7 @@ import {summonFiend} from './macros/spells/summonFiend.js';
 import {summonShadowspawn} from './macros/spells/summonShadowspawn.js';
 import {summonUndead} from './macros/spells/summonUndead.js';
 import {summon} from './macros/generic/summon.js';
+import {tentacleOfTheDeeps} from "./macros/classFeatures/warlock/fathomless/tentacleOfTheDeeps";
 import {thunderboltStrike} from './macros/classFeatures/cleric/tempestDomain/thunderboltStrike.js';
 import {tollTheDead} from './macros/spells/tollTheDead.js';
 import {troglodyte} from './macros/monsterFeatures/troglodyte/troglodyte.js';
@@ -381,6 +382,7 @@ export let macros = {
 	'summonFiend': summonFiend,
 	'summonShadowspawn': summonShadowspawn,
 	'summonUndead': summonUndead,
+	'tentacleOfTheDeeps':tentacleOfTheDeeps,
 	'thunderboltStrike': thunderboltStrike,
 	'tollTheDead': tollTheDead,
 	'turnUndead': turnUndead,
